@@ -37,7 +37,3 @@ breakout-game/
 ├── script.js        # Core game logic
 └── assets/          # Game assets (images, sounds, etc.)
 ```
-
-## License
-
-This project is licensed under the MIT License.
